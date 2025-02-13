@@ -1,0 +1,3 @@
+﻿  lab10.cpp
+D:\Desktop\labs\lab10\lab10.cpp(85,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab10.vcxproj -> D:\Desktop\labs\lab10\x64\Debug\lab10.exe
